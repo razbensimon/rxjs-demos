@@ -1,0 +1,27 @@
+{
+  "name": "ex5-angularjs-state-manegment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "private": true,
+  "scripts": {
+    "build": "webpack",
+    "watch": "webpack --watch --progress"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.6.10",
+    "rxjs": "^6.5.4",
+    "rxjs-compat": "^6.5.4"
+  },
+  "devDependencies": {
+    "@types/angular": "^1.6.57",
+    "html-loader": "^0.5.5",
+    "ts-loader": "^6.2.1",
+    "typescript": "^3.7.5",
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10"
+  }
+}
