@@ -14,7 +14,7 @@
   "dependencies": {},
   "devDependencies": {
     "@types/angular": "^1.6.57",
-    "angular": "^1.7.9",
+    "angular": "^1.8.0",
     "html-loader": "^0.5.5",
     "rxjs": "^6.5.4",
     "ts-loader": "^6.2.1",
